@@ -1,4 +1,4 @@
-# Jogador Superfaturado - MBA em Ciência de Dados
+# Jogadores Superfaturados \- MBA em Ciência de Dados
 
 Este projeto faz parte da disciplina de **Introdução ao Aprendizado de Máquina** na Turma 8 de 2024 do curso de **MBA em Ciência de Dados** pela **UNIFOR**.
 
@@ -8,12 +8,13 @@ O objetivo deste projeto é identificar os jogadores mais superfaturados (ou sej
 
 ## Estrutura do Projeto
 
-O arquivo principal do projeto é o Jupyter Notebook `Jogador_Superfaturado.ipynb`, onde os seguintes passos são realizados:
+O arquivo principal do projeto é o Jupyter Notebook `Jogadores_Superfaturados.ipynb`, onde os seguintes passos são realizados:
 
-1. **Importação de Dados:** Leitura do dataset com informações de desempenho de jogadores da NBA.
-2. **Análise Exploratória de Dados (EDA):** Visualização e análise dos dados para entender as principais características dos jogadores.
-3. **Treinamento de Modelos:** Aplicação de algoritmos de aprendizado de máquina para determinar os jogadores mais superfaturados.
-4. **Resultados:** Identificação dos jogadores e apresentação dos resultados.
+1. **Setup do Ambiente:** Importação das bibliotecas necessárias.
+2. **Importação de Dados:** Leitura do dataset com informações de desempenho de jogadores da NBA.
+3. **Análise Exploratória de Dados (EDA):** Visualização e análise dos dados para entender as principais características dos jogadores.
+4. **Treinamento de Modelos:** Aplicação de algoritmos de aprendizado de máquina para determinar o jogador mais superfaturado.
+5. **Resultados:** Identificação dos jogadores e apresentação dos resultados.
 
 ## Dependências
 
@@ -26,24 +27,21 @@ As bibliotecas necessárias para rodar este notebook incluem:
 
 Instale as dependências com o seguinte comando:
 
-```bash
-pip install -r requirements.txt
-```
+pip install \-r requirements.txt
 
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/jogador_superfaturado.git
-   ```
+
+   git clone https://github.com/DivaldoJr1001/jogadores-superfaturados.git
+
 2. Navegue até o diretório:
-   ```bash
-   cd jogador_superfaturado
-   ```
+
+   cd jogadores-superfaturados
+
 3. Abra o Jupyter Notebook:
-   ```bash
-   jupyter notebook Jogador_Superfaturado.ipynb
-   ```
+
+   jupyter notebook Jogadores\_Superfaturados.ipynb
 
 ## Licença
 
