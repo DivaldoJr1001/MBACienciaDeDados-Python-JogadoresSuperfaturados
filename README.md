@@ -33,11 +33,11 @@ pip install \-r requirements.txt
 
 1. Clone este repositório:
 
-   git clone https://github.com/DivaldoJr1001/jogadores-superfaturados.git
+   git clone https://github.com/DivaldoJr1001/MBACienciaDeDados-Python-JogadoresSuperfaturados.git
 
 2. Navegue até o diretório:
 
-   cd jogadores-superfaturados
+   cd MBACienciaDeDados-Python-JogadoresSuperfaturados
 
 3. Abra o Jupyter Notebook:
 
